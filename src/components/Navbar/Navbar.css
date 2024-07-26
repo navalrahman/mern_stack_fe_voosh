@@ -1,0 +1,18 @@
+
+
+/* style={{ position: 'fixed', top: 0, left: 0, width: '100%', backgroundColor: 'blue', zIndex: 1000 }} */
+
+.navbar-main-div{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: blue;
+    z-index: 1000;
+}
+
+.navbar-main-div-div{
+    float: right;
+    gap: 10px;
+}
+/* style={{ float: 'right', gap: '10px' }} */

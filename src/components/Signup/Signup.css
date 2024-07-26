@@ -1,0 +1,38 @@
+/* style={{marginBottom:'100px',marginLeft:'600px'}} */
+.signup{
+    margin-bottom: 10px;
+    margin-left: 600px;
+}
+/* style={{ backgroundColor: 'white', padding: '20px', borderRadius: '10px', boxShadow: '4px 4px 8px rgba(0, 0, 0, 0.1)', width: '300px' }} */
+.signup-form{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+}
+
+.signup-form-division{
+    margin-bottom: 15px;
+}
+/* style={{ width: '100%', padding: '10px', borderRadius: '5px', border: '1px solid #ccc', boxSizing: 'border-box' }} */
+
+.signup-from-input{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* style={{ width: '100%', padding: '10px', borderRadius: '5px', border: 'none', backgroundColor: '#007BFF', color: 'white', cursor: 'pointer' }} */
+
+.signup-form-button{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #007BFF;
+    color: white;
+    cursor: pointer;
+}

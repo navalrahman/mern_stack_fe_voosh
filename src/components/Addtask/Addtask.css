@@ -1,0 +1,48 @@
+/* style={{ width: '100%', maxWidth: '1000px', margin: '0 auto',position: 'fixed', top: '50px', left: '250px' }} */
+
+.addtask-main-div{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    position: fixed;
+    top: 50px;
+    left: 250px;
+}
+
+/* style={{ width: '100%', padding: '10px', borderRadius: '5px', border: '1px solid #ccc', boxSizing: 'border-box' }} */
+.addtask-input{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* style={{ display: 'flex', justifyContent: 'flex-end', gap: '10px' }} */
+.addtask-button-div{
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+/* style={{ backgroundColor: 'white', padding: '20px', borderRadius: '10px', boxShadow: '4px 4px 8px rgba(0, 0, 0, 0.1)', width: '100%' }} */
+
+.addtask-second-div{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
+/* style={{ width: '20%', padding: '10px', borderRadius: '5px', border: '1px solid #ccc', boxSizing: 'border-box' }}  */
+
+.addtask-input-secondary{
+    width: 20%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* style={{ width: '20%', padding: '10px', borderRadius: '5px', border: '1px solid #ccc', boxSizing: 'border-box' }} */
